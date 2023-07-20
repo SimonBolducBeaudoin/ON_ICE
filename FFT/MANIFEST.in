@@ -1,0 +1,2 @@
+include fft/libfft.so
+include fft/libfft.pyd

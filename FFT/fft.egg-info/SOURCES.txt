@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+fft/__init__.py
+fft/libfft.pyd
+fft.egg-info/PKG-INFO
+fft.egg-info/SOURCES.txt
+fft.egg-info/dependency_links.txt
+fft.egg-info/requires.txt
+fft.egg-info/top_level.txt

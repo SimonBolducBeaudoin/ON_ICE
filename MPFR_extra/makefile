@@ -1,5 +1,5 @@
 TARGET_NAME = mprf_extra
-TARGET_STATIC = bin/$(TARGET_NAME).a
+TARGET_STATIC = $(TARGET_NAME).a
 
 MPFR_EXTRA = ../MPFR_extra
 LIBS = ../libs
