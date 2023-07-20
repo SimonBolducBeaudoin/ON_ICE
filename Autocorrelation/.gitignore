@@ -1,0 +1,16 @@
+*.out
+*.so
+*.o
+*.exe
+*.dll
+*.*~
+*~
+*.pyc
+*.pdf
+*.png
+*.session
+*.dat
+*.npz
+*.pyd
+*.bak
+
