@@ -1,0 +1,3 @@
+[submodule "AutoGitVersion"]
+	path = AutoGitVersion
+	url = https://github.com/SimonBolducBeaudoin/AutoGitVersion.git
